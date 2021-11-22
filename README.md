@@ -31,6 +31,10 @@ You can deploy your plugins using the CDAP CLI:
 For example, if your artifact is named 'example-plugins-1.0.0':
 
     > load artifact target/example-plugins-1.0.0.jar config-file target/example-plugins-1.0.0.json
+    
+## Reference
+
+https://cdap.atlassian.net/wiki/spaces/DOCS/pages/480412201/Creating+a+Plugin
 
 ## License and Trademarks
 
