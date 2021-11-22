@@ -7,9 +7,9 @@ To build your plugins manually:
 mvn clean package
 
 ## Makefile
-This project has a Makefile to build and deploy the plugin
-You can run 'make'
-You can run 'make build' to build without running tests.
+This project has a Makefile to build and deploy the plugin <\BR>
+You can run 'make'<\BR>
+You can run 'make build' to build without running tests<\BR>
 
 The build will create a .jar and .json file under the target directory. These files can be uploaded to CDAP to deploy your plugins.
 
