@@ -4,16 +4,16 @@ This action plugin extracts the latest ingested folder/file in the SFTP director
 
 ## Build
 To build your plugins manually:
-
 mvn clean package
 
+## Makefile
 This project has a Makefile to build and deploy the plugin
 You can run 'make'
 You can run 'make build' to build without running tests.
 
 The build will create a .jar and .json file under the target directory. These files can be uploaded to CDAP to deploy your plugins.
 
-##UI Integration
+## UI Integration
 The CDAP Pipelines UI displays each plugin property as a simple textbox. To customize how the plugin properties are displayed in the UI, you can place a configuration file in the widgets directory. The file must be named following a convention of [plugin-name]-[plugin-type].json.
 
 See Plugin Widget Configuration for details on the configuration file.
