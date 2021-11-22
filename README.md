@@ -1,8 +1,8 @@
-#Plugin to Pick Latest File/Folder in SFTP
+# Plugin to Pick Latest File/Folder in SFTP
 
 This action plugin extracts the latest ingested folder/file in the SFTP directory to pass it to the pipeline. 
 
-##Build
+## Build
 To build your plugins manually:
 
 mvn clean package
