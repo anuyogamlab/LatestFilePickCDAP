@@ -32,6 +32,14 @@ For example, if your artifact is named 'example-plugins-1.0.0':
 
     > load artifact target/example-plugins-1.0.0.jar config-file target/example-plugins-1.0.0.json
     
+ Plugin will be in "Conditions and Actions":
+    
+ ![SFTP Plugin](https://github.com/anuyogamlab/LatestFilePickCDAP/blob/main/docs/SFTPPlugin1.png?raw=true)
+ 
+ ![Update Fields](https://github.com/anuyogamlab/LatestFilePickCDAP/blob/main/docs/SFTPPlugin2.png?raw=true)
+ 
+ ![Plugin Documentation](https://github.com/anuyogamlab/LatestFilePickCDAP/blob/main/docs/SFTPPlugin3.png?raw=true)
+    
 ## Reference
 
 https://cdap.atlassian.net/wiki/spaces/DOCS/pages/480412201/Creating+a+Plugin
